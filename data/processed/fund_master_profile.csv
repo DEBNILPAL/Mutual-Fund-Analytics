@@ -1,0 +1,18 @@
+dimension,value,scheme_count
+fund_house,ICICI Prudential MF,5
+fund_house,HDFC Mutual Fund,5
+fund_house,SBI Mutual Fund,5
+fund_house,Nippon India MF,5
+fund_house,Kotak Mahindra MF,4
+fund_house,Axis Mutual Fund,4
+fund_house,Aditya Birla Sun Life MF,3
+fund_house,DSP Mutual Fund,3
+fund_house,Mirae Asset MF,3
+fund_house,UTI Mutual Fund,3
+category,Equity,34
+category,Debt,6
+risk_category,Moderate,16
+risk_category,High,8
+risk_category,Low,6
+risk_category,Very High,6
+risk_category,Moderately High,4

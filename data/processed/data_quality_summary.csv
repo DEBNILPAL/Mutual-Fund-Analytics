@@ -1,0 +1,11 @@
+dataset_name,rows,columns,missing_values,duplicates,blank_columns,issues
+01_fund_master,40,15,0,0,0,None
+02_nav_history,46000,3,0,0,0,None
+03_aum_by_fund_house,90,5,0,0,0,None
+04_monthly_sip_inflows,48,6,12,0,0,Missing values: 12; >20% missing: ['yoy_growth_pct']; Possible numeric stored as text: month
+05_category_inflows,144,3,0,0,0,Possible numeric stored as text: month
+06_industry_folio_count,21,6,0,0,0,Possible numeric stored as text: month
+07_scheme_performance,40,19,0,0,0,None
+08_investor_transactions,32778,13,0,0,0,Possible numeric stored as text: age_group
+09_portfolio_holdings,322,8,0,0,0,None
+10_benchmark_indices,8050,3,0,0,0,None

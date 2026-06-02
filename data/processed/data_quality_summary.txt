@@ -1,0 +1,101 @@
+======================================================================
+  BLUESTOCK MF CAPSTONE -- DATA QUALITY SUMMARY
+  Generated: 2026-06-02 16:21:58
+======================================================================
+
+AMFI CODE VALIDATION
+----------------------------------------
+  Total master codes       : 40
+  Total NAV history codes   : 40
+  Matched codes             : 40
+  Coverage                  : 100.00%
+  Missing from NAV history  : 0
+  Invalid codes in NAV      : 0
+  Duplicate codes in master : 0
+
+DATASET QUALITY OVERVIEW
+----------------------------------------
+
+  Dataset     : 01_fund_master
+  Rows        : 40
+  Columns     : 15
+  Missing     : 0
+  Duplicates  : 0
+  Blank Cols  : 0
+  Issues      : nan
+
+  Dataset     : 02_nav_history
+  Rows        : 46000
+  Columns     : 3
+  Missing     : 0
+  Duplicates  : 0
+  Blank Cols  : 0
+  Issues      : nan
+
+  Dataset     : 03_aum_by_fund_house
+  Rows        : 90
+  Columns     : 5
+  Missing     : 0
+  Duplicates  : 0
+  Blank Cols  : 0
+  Issues      : nan
+
+  Dataset     : 04_monthly_sip_inflows
+  Rows        : 48
+  Columns     : 6
+  Missing     : 12
+  Duplicates  : 0
+  Blank Cols  : 0
+  Issues      : Missing values: 12; >20% missing: ['yoy_growth_pct']; Possible numeric stored as text: month
+
+  Dataset     : 05_category_inflows
+  Rows        : 144
+  Columns     : 3
+  Missing     : 0
+  Duplicates  : 0
+  Blank Cols  : 0
+  Issues      : Possible numeric stored as text: month
+
+  Dataset     : 06_industry_folio_count
+  Rows        : 21
+  Columns     : 6
+  Missing     : 0
+  Duplicates  : 0
+  Blank Cols  : 0
+  Issues      : Possible numeric stored as text: month
+
+  Dataset     : 07_scheme_performance
+  Rows        : 40
+  Columns     : 19
+  Missing     : 0
+  Duplicates  : 0
+  Blank Cols  : 0
+  Issues      : nan
+
+  Dataset     : 08_investor_transactions
+  Rows        : 32778
+  Columns     : 13
+  Missing     : 0
+  Duplicates  : 0
+  Blank Cols  : 0
+  Issues      : Possible numeric stored as text: age_group
+
+  Dataset     : 09_portfolio_holdings
+  Rows        : 322
+  Columns     : 8
+  Missing     : 0
+  Duplicates  : 0
+  Blank Cols  : 0
+  Issues      : nan
+
+  Dataset     : 10_benchmark_indices
+  Rows        : 8050
+  Columns     : 3
+  Missing     : 0
+  Duplicates  : 0
+  Blank Cols  : 0
+  Issues      : nan
+
+======================================================================
+  END OF REPORT
+======================================================================
