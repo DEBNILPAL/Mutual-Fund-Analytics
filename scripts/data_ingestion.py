@@ -6,7 +6,7 @@ This script performs automated data ingestion of all CSV datasets,
 runs comprehensive quality profiling, fund master analysis,
 and AMFI validation. All results are persisted to data/processed/.
 
-Author : Bluestock Fintech Analytics Team
+Author : DEBNIL PAL
 Date   : 2026-06-02
 """
 
