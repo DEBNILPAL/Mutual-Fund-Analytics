@@ -7,4 +7,6 @@ sqlalchemy
 requests
 scipy
 jupyter
+nbformat
 python-dateutil
+kaleido
