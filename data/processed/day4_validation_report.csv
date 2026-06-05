@@ -1,0 +1,11 @@
+metric,records,status,notes
+daily_returns,46000,PASS,40 unique funds
+cagr_report,40,PASS,1Y/3Y/5Y CAGR computed
+sharpe_values,40,PASS,"Sharpe range [-0.82, 1.45]"
+sortino_values,40,PASS,"Sortino range [-1.68, 2.39]"
+alpha_beta,40,PASS,OLS regression vs Nifty 100
+max_drawdown,40,PASS,"DD range [-52.6%, -0.1%]"
+tracking_error,40,PASS,"TE range [0.1290, 0.2921]"
+fund_scorecard,40,PASS,"Score range [14.3, 86.2]"
+no_duplicate_funds,40,PASS,Checked for duplicate amfi_code entries
+no_missing_metrics,40,PASS,All composite scores populated
