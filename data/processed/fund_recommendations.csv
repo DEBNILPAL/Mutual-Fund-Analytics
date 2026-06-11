@@ -1,0 +1,16 @@
+investor_type,rank,amfi_code,scheme_name,category,risk_category,sharpe_ratio,sortino_ratio,alpha_annual,beta,expense_ratio_pct,max_drawdown_pct,recommendation_score
+Conservative,1,120504,ICICI Pru Bluechip Fund - Direct - Growth,Equity,Moderate,1.026,1.805,0.2119,0.016,0.8,-12.59,0.7871
+Conservative,2,119552,SBI Bluechip Fund - Direct Plan - Growth,Equity,Moderate,0.953,1.61,0.1987,-0.026,0.66,-11.8,0.7707
+Conservative,3,148567,Mirae Asset Large Cap Fund - Regular - Growth,Equity,Moderate,1.448,2.386,0.2698,0.024,1.46,-11.27,0.7652
+Conservative,4,120507,ICICI Pru Liquid Fund - Regular - Growth,Debt,Low,0.496,1.052,0.0675,-0.0,0.74,-0.1,0.7543
+Conservative,5,120505,ICICI Pru Midcap Fund - Regular - Growth,Equity,High,1.18,2.029,0.2926,0.001,1.36,-18.19,0.7507
+Balanced,1,148567,Mirae Asset Large Cap Fund - Regular - Growth,Equity,Moderate,1.448,2.386,0.2698,0.024,1.46,-11.27,0.8481
+Balanced,2,120504,ICICI Pru Bluechip Fund - Direct - Growth,Equity,Moderate,1.026,1.805,0.2119,0.016,0.8,-12.59,0.8032
+Balanced,3,120843,Kotak Flexicap Fund - Regular - Growth,Equity,Moderately High,1.307,2.364,0.2733,-0.023,1.45,-12.97,0.8027
+Balanced,4,119552,SBI Bluechip Fund - Direct Plan - Growth,Equity,Moderate,0.953,1.61,0.1987,-0.026,0.66,-11.8,0.7829
+Balanced,5,120505,ICICI Pru Midcap Fund - Regular - Growth,Equity,High,1.18,2.029,0.2926,0.001,1.36,-18.19,0.7804
+Aggressive,1,119598,SBI Small Cap Fund - Regular Plan - Growth,Equity,Very High,0.945,1.675,0.3034,-0.023,1.43,-28.71,0.8705
+Aggressive,2,149324,DSP Small Cap Fund - Regular - Growth,Equity,Very High,0.95,1.62,0.3006,0.011,1.52,-31.17,0.8655
+Aggressive,3,120505,ICICI Pru Midcap Fund - Regular - Growth,Equity,High,1.18,2.029,0.2926,0.001,1.36,-18.19,0.8472
+Aggressive,4,148569,Mirae Asset Tax Saver Fund - Regular - Growth,Equity,High,1.235,2.147,0.2827,0.018,1.6,-16.4,0.825
+Aggressive,5,100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,Equity,High,1.094,1.829,0.272,0.005,1.38,-16.22,0.8127

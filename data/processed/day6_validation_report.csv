@@ -1,0 +1,13 @@
+check,passed,detail
+40 funds in VaR,PASS,40
+All VaR values populated,PASS,40
+All CVaR values populated,PASS,40
+Cohort analysis generated,PASS,19
+Investor segments generated,PASS,5000
+"10,000 MC simulations done",PASS,10000
+Monte Carlo projections,PASS,10
+Optimal portfolios found,PASS,2
+Risk scores generated,PASS,40
+Recommendation CSV exists,PASS,Y/N
+var_summary.csv exists,PASS,True
+efficient_frontier.csv exists,PASS,True
